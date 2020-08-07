@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" height="30px" src="https://c7.uihere.com/files/447/294/563/python-javascript-logo-clojure-python-logo-download.jpg" />][python]
+[<img align="left" alt="Python" height="30px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][python]
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" />][pandas]
 [<img align="left" alt="Numpy" height="30px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />][numpy]
 [<img align="left" alt="Scikit-learn" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
