@@ -5,6 +5,8 @@
 - My 2020 goal: Contribute more to Open Source (pandas and jupyter)
 - Last book: Edward Snowden - Permanent Record
 - Current book: Jack Canfield - The Success Principles
+- Last learning goal: Coursera deep learning specialization by Andrew Ng
+- Current learning goal: AWS Certification
 
 ### Connect with me:
 
