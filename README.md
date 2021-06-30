@@ -2,11 +2,11 @@
 
 ## I am a Data Scientist, Developer, and Startup enthusiast!
 - I'm currently expanding my skills in Deep Learning (pytorch & fast.ai)
-- My 2020 goal: Contribute more to Open Source (pandas and jupyter)
+- My 2021 goal: Contribute more to Open Source (pandas and jupyter)
 - Last book: Edward Snowden - Permanent Record
 - Current book: Jack Canfield - The Success Principles
 - Last learning goal: Coursera deep learning specialization by Andrew Ng
-- Current learning goal: AWS Certification
+- Current learning goal: Machine Learning Engineering for Production (MLOps) Specialization by Andrew Ng
 
 ### Connect with me:
 
